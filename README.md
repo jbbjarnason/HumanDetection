@@ -18,3 +18,4 @@
 ## Strategies for identification
   * PIR sensor https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063065/
   * Wifi signal https://ieeexplore.ieee.org/document/7536315/
+  * Load cell https://www.hackster.io/MOHAN_CHANDALURU/hx711-load-cell-amplifier-interface-with-arduino-fa47f3
