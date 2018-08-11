@@ -13,8 +13,8 @@
   * Show how many humans use specific hiking path where there are several inputs and exits
 
 ## Strategies for human sensing
-  * [Infrared distance sensor]:https://www.adafruit.com/product/164
+  * Infrared distance sensor https://www.adafruit.com/product/164
 
 ## Strategies for identification
-  * [PIR sensor]:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063065/
-  * [Wifi signal]:https://ieeexplore.ieee.org/document/7536315/
+  * PIR sensor https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063065/
+  * Wifi signal https://ieeexplore.ieee.org/document/7536315/
